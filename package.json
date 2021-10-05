@@ -1,6 +1,6 @@
 {
-  "name": "yokaiswap-peripheral",
-  "description": "🎚 Peripheral smart contracts for interacting with yokaiswap",
+  "name": "boundless-peripheral",
+  "description": "🎚 Peripheral smart contracts for interacting with Boundless",
   "version": "0.1.0",
   "private": true,
   "engines": {

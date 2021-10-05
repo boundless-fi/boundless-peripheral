@@ -1,4 +1,4 @@
-# YokaiSwap Periphery
+# Boundless Periphery
 
 ## Local Development
 
@@ -12,13 +12,13 @@ yarn install
 
 ### Compile Contracts
 
-Link [`yokaiswap-core`](https://github.com/YokaiSwap/yokaiswap-core) frist.
+Link [`boundless-core`](https://github.com/boundless-fi/boundless-core) frist.
 
 ```sh
-cd $PATH_TO_YOKAISWAP_CORE
+cd $PATH_TO_BOUNDLESS_CORE
 yarn link
 cd -
-yarn link yokaiswap-core
+yarn link boundless-core
 
 yarn compile
 ```
@@ -27,7 +27,7 @@ yarn compile
 
 ### Prerequisites
 
-You need to deploy [YokaiSwap Core](https://github.com/YokaiSwap/yokaiswap-core) frist.
+You need to deploy [Boundless Core](https://github.com/boundless-fi/boundless-core) frist.
 
 ### Setup
 
@@ -58,4 +58,4 @@ yarn deploy
 
 ---
 
-forked from [pancakeswap/pancake-swap-periphery](https://github.com/pancakeswap/pancake-swap-periphery)
+forked from [YokaiSwap/yokaiswap-peripheral](https://github.com/YokaiSwap/yokaiswap-peripheral)

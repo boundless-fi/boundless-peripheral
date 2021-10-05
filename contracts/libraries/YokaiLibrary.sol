@@ -1,7 +1,7 @@
 pragma solidity >=0.5.0;
 
-import 'yokaiswap-core/contracts/interfaces/IYokaiFactory.sol';
-import 'yokaiswap-core/contracts/interfaces/IYokaiPair.sol';
+import 'boundless-core/contracts/interfaces/IYokaiFactory.sol';
+import 'boundless-core/contracts/interfaces/IYokaiPair.sol';
 
 import './SafeMath.sol';
 

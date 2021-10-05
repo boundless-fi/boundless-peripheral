@@ -1,6 +1,6 @@
 pragma solidity =0.6.6;
 
-import 'yokaiswap-core/contracts/interfaces/IYokaiFactory.sol';
+import 'boundless-core/contracts/interfaces/IYokaiFactory.sol';
 import '@uniswap/lib/contracts/libraries/TransferHelper.sol';
 
 import './interfaces/IYokaiRouter02.sol';
